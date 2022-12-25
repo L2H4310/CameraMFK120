@@ -42,7 +42,7 @@ t.forward(120)
 t.penup()
 t.goto(-150,-150)
 t.pendown()
-t.write("Learnopy",font=("Arial",50,"bold"))
+t.write("Madhu",font=("Arial",50,"bold"))
 
 t.hideturtle()
 turtle.done()
